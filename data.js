@@ -4,7 +4,8 @@ const studentProjects = [
         studentName: "ming",
         projects: [
             // path 可以是相對路徑，或是 Scratch 官方的網址
-            { title: "雞蛋蛋音符ex2", path: "./projects/ming/ch6ex2.html" }
+            { title: "雞蛋蛋音符ex2", path: "./projects/ming/ch6ex2.html" },
+            { title: "量角器", path: "./projects/ming/angle.html" }
         ]
     },
     {
